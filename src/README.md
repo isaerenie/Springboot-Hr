@@ -101,3 +101,5 @@ POST   http://localhost:8090/api/employee
 ![diagram2.jpg](main%2Fresources%2Fstatic%2Fdiagram2.jpg)
 ![swagger.jpg](main%2Fresources%2Fstatic%2Fswagger.jpg)
 ![swagger1.jpg](main%2Fresources%2Fstatic%2Fswagger1.jpg)
+![postman.jpg](main%2Fresources%2Fstatic%2Fpostman.jpg)
+![postman1.jpg](main%2Fresources%2Fstatic%2Fpostman1.jpg)
