@@ -96,10 +96,13 @@ POST   http://localhost:8090/api/employee
     }
 }
 ```
+### Project Structure
 ![diagram.jpg](main%2Fresources%2Fstatic%2Fdiagram.jpg)
 ![diagam1.jpg](main%2Fresources%2Fstatic%2Fdiagam1.jpg)
 ![diagram2.jpg](main%2Fresources%2Fstatic%2Fdiagram2.jpg)
+### Swagger UI
 ![swagger.jpg](main%2Fresources%2Fstatic%2Fswagger.jpg)
 ![swagger1.jpg](main%2Fresources%2Fstatic%2Fswagger1.jpg)
+### Postman
 ![postman.jpg](main%2Fresources%2Fstatic%2Fpostman.jpg)
 ![postman1.jpg](main%2Fresources%2Fstatic%2Fpostman1.jpg)
